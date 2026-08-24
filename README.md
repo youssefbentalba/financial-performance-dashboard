@@ -9,7 +9,7 @@ The objective is to compare actual financial results against budget, identify pe
 ## Dashboard Preview
 
 The dashboard provides a consolidated view of financial performance across the year.
-![FP&A Financial Performance Dashboard](Capture%20d’écran%202026-08-24%20à%2019...)
+![FP&A Financial Performance Dashboard](Capture d’écran 2026-08-24 à 19.49.59.png)
 ## Key KPIs
 
 - Revenue: €4.182M
