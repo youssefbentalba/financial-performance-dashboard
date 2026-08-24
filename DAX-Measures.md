@@ -66,9 +66,4 @@ DIVIDE(
 )
 
 
-**Important :** si tes mesures Power BI ont des noms légèrement différents, garde les noms qui existent réellement dans ton `.pbix`.
 
-Ensuite clique sur **Commit changes...** et mets :
-
-```text
-Add DAX measures documentation
