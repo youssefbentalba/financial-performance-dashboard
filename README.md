@@ -52,3 +52,19 @@ The purpose of this dashboard is to support management decision-making by identi
 ## Disclaimer
 
 This project uses fictional financial data and was created for portfolio and learning purposes.
+
+
+## Key Financial Insights
+
+- Revenue reached **€4.182M**, exceeding the €4.070M budget by **2.73%**.
+- Revenue performance was favorable overall, although March, June and October were below budget.
+- EBITDA reached **€1.449M**, representing an **EBITDA Margin of 34.65%**.
+- EBITDA Margin improved toward year-end, reaching its highest level in December.
+- OPEX performance remained relatively close to budget, with monthly deviations requiring further variance analysis.
+
+  ## Project Documentation
+
+Detailed documentation is available below:
+
+- [KPI Definitions & Financial Interpretation](KPI-Definitions.md)
+- [DAX Measures](DAX-Measures.md)
